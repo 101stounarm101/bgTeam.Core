@@ -74,8 +74,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "bgTeam.StoryRunner", "src\b
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "bgTeam.StoryRunnerScheduler", "src\bgTeam.StoryRunnerScheduler\bgTeam.StoryRunnerScheduler.csproj", "{1CE130BF-73D2-4FAE-B3C0-342A414CCFA7}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Test.bgTeam.Web", "tests\Test.bgTeam.Web\Test.bgTeam.Web.csproj", "{CB92EB4D-EDC9-443F-91C9-AAA33A81BE4B}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "bgTeam.ProjectTemplate", "examples\bgTeam.ProjectTemplate\bgTeam.ProjectTemplate.csproj", "{7EF7238E-C408-41D9-A294-1E15B44CD5D7}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "bgTeam.SSO.Sample", "examples\bgTeam.SSO.Sample\bgTeam.SSO.Sample.csproj", "{3223D611-3462-4E52-9823-BFEFC47062D3}"
